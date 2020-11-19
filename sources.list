@@ -1,0 +1,2 @@
+deb [trusted=yes] https://community-packages.deepin.com/deepin apricot main contrib non-free
+#deb-src https://community-packages.deepin.com/deepin apricot main contrib non-free
